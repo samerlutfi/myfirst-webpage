@@ -1,1 +1,2 @@
-# myfirst-webpage
+# my website wireframe
+![photo](wireframe.png)
